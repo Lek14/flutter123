@@ -108,7 +108,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'Щелкунов Алексей Максимович',
             ),
-            const Text('ЭФБО-04-22'),
+            const Text('ЭФБО--04-22'),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
